@@ -1,0 +1,2 @@
+﻿Command: trivy image --severity CRITICAL --ignore-unfixed --exit-code 1 fest-backend:0.2
+Exit code: 0
